@@ -1,0 +1,10 @@
+{
+  "mainFileName" : "year.py",
+  "nameFolder" : "year",
+  "author" : "Paul Douane",
+  "inputs" : [
+
+  ],
+  "name" : "Year !",
+  "language" : "shell"
+}
