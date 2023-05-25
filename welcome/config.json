@@ -1,0 +1,10 @@
+{
+  "language" : "shell",
+  "mainFileName" : "welcome.sh",
+  "nameFolder" : "welcome",
+  "inputs" : [
+
+  ],
+  "name" : "Welcome !",
+  "author" : "Paul Douane"
+}

@@ -1,0 +1,10 @@
+{
+  "mainFileName" : "helloWorld.sh",
+  "nameFolder" : "helloWorld",
+  "author" : "Paul Douane",
+  "inputs" : [
+
+  ],
+  "name" : "Hello World",
+  "language" : "shell"
+}
