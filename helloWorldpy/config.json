@@ -1,0 +1,10 @@
+{
+  "language" : "python",
+  "mainFileName" : "main.sh",
+  "nameFolder" : "helloWorldpy",
+  "inputs" : [
+
+  ],
+  "name" : "Hello World !",
+  "author" : "Paul Douane"
+}
