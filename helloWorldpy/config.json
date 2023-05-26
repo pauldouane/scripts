@@ -1,6 +1,6 @@
 {
   "language" : "python",
-  "mainFileName" : "main.sh",
+  "mainFileName" : "main.py",
   "nameFolder" : "helloWorldpy",
   "inputs" : [
 
