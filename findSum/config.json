@@ -1,0 +1,10 @@
+{
+  "nameFolder" : "findSum",
+  "language" : "python",
+  "name" : "Find Sum",
+  "inputs" : [
+
+  ],
+  "author" : "Hamza Eljaoui",
+  "mainFileName" : "main.py"
+}
