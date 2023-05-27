@@ -1,0 +1,10 @@
+{
+  "nameFolder" : "queen",
+  "inputs" : [
+
+  ],
+  "author" : "Paul Douane",
+  "name" : "Queen",
+  "language" : "python",
+  "mainFileName" : "main.py"
+}
